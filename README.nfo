@@ -1,0 +1,10 @@
+Prerequisites:
+-install python
+
+Usage:
+>python getViewCount.py jv8MsZyHZ4U,2abnx5lyezU
+
+Output:
+Videos:
+jv8MsZyHZ4U, How to Make a Custom LA Snapback Tutorial! DIY, (70039)
+2abnx5lyezU, Unboxing Some New Pickups, (35401)
